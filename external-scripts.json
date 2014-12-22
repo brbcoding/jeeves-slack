@@ -16,5 +16,6 @@
   "hubot-regex",
   "hubot-stockstuff",
   "hubot-at",
-  "hubot-victory"
+  "hubot-victory",
+  "hubot-karma-classic"
 ]
