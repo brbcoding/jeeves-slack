@@ -8,6 +8,7 @@
     "hubot": "^2.10.0",
     "hubot-at": "0.0.4",
     "hubot-bangmotivate": "^0.1.0",
+    "hubot-business-cat": "^1.1.9",
     "hubot-diagnostics": "0.0.1",
     "hubot-fliptable": "^1.2.0",
     "hubot-google-images": "^0.1.2",
@@ -28,6 +29,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot-seen": "^0.2.2",
     "hubot-shipit": "^0.1.1",
+    "hubot-soon": "^1.0.0",
     "hubot-stockstuff": "0.0.1",
     "hubot-victory": "^1.2.0",
     "hubot-youtube": "^0.1.2"

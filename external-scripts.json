@@ -20,5 +20,7 @@
   "hubot-plusplus",
   "hubot-impersonate",
   "hubot-heroku-keepalive",
-  "hubot-seen"
+  "hubot-seen",
+  "hubot-business-cat",
+  "hubot-soon"
 ]
