@@ -14,5 +14,6 @@
   "hubot-fliptable",
   "hubot-motivate",
   "hubot-regex",
-  "hubot-stockstuff"
+  "hubot-stockstuff",
+  "hubot-at"
 ]
