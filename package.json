@@ -25,6 +25,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
     "hubot-stockstuff": "0.0.1",
+    "hubot-victory": "^1.2.0",
     "hubot-youtube": "^0.1.2"
   },
   "engines": {
