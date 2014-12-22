@@ -19,5 +19,6 @@
   "hubot-victory",
   "hubot-plusplus",
   "hubot-impersonate",
-  "hubot-heroku-keepalive"
+  "hubot-heroku-keepalive",
+  "hubot-seen"
 ]
