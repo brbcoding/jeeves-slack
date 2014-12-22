@@ -12,5 +12,6 @@
   "hubot-youtube",
   "hubot-react",
   "hubot-fliptable",
-  "hubot-motivate"
+  "hubot-motivate",
+  "hubot-regex"
 ]
