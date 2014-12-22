@@ -13,5 +13,6 @@
   "hubot-react",
   "hubot-fliptable",
   "hubot-motivate",
-  "hubot-regex"
+  "hubot-regex",
+  "hubot-stockstuff"
 ]
