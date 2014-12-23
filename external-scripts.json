@@ -25,5 +25,6 @@
   "hubot-soon",
   "hubot-redis-brain",
   "hubot-calculator",
-  "hubot-javascript"
+  "hubot-javascript",
+  "hubot-clj"
 ]
