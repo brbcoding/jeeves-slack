@@ -24,5 +24,6 @@
   "hubot-business-cat",
   "hubot-soon",
   "hubot-redis-brain",
-  "hubot-calculator"
+  "hubot-calculator",
+  "hubot-javascript"
 ]
