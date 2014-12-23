@@ -23,5 +23,6 @@
   "hubot-seen",
   "hubot-business-cat",
   "hubot-soon",
-  "hubot-redis-brain"
+  "hubot-redis-brain",
+  "hubot-calculator"
 ]
