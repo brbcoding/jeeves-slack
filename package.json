@@ -6,6 +6,7 @@
   "description": "Fucking Jeeves",
   "dependencies": {
     "hubot": "^2.10.0",
+    "hubot-2048": "^1.0.1",
     "hubot-ascii-faces": "^1.0.2",
     "hubot-at": "0.0.4",
     "hubot-bangmotivate": "^0.1.0",

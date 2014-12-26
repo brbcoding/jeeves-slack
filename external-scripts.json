@@ -26,5 +26,6 @@
   "hubot-calculator",
   "hubot-javascript",
   "hubot-clj",
-  "hubot-ascii-faces"
+  "hubot-ascii-faces",
+  "hubot-2048"
 ]
