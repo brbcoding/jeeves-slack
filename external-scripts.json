@@ -27,5 +27,6 @@
   "hubot-javascript",
   "hubot-clj",
   "hubot-ascii-faces",
-  "hubot-2048"
+  "hubot-2048",
+  "hubot-trivia-game"
 ]
