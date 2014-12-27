@@ -9,5 +9,5 @@ module.exports = (robot) ->
   ]
 
   robot.hear /!slap\s(.*)/i, (msg) ->
-    slapWho = msg.match[1];
-    msg.reply msg.random beg + slapWho + msg.random end
+    slapWho = msg.match[1]
+    msg.reply msg.random beg
