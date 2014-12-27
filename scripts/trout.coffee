@@ -1,13 +1,13 @@
 module.exports = (robot) ->
-  slapMessages = [
-    "slaps #{slapWho} around a bit with a large trout"
-    "slaps #{slapWho} in the face with a rotten fish"
-    "beats #{slapWho} in the face with a 14 inch dildo"
-    "beats #{slapWho} with an ugly stick, even though it doesn't matter"
-    "stabs #{slapWho} with a blunt stick"
-    "stabs #{slapWho} with a spork"
+  beg = ["slaps", "hits", "beats", "pokes"]
+  end = ["around a bit with a large trout",
+    "in the face with a rotten fish",
+    "in the face with a 14 inch dildo",
+    "with an ugly stick, though it does no more damage",
+    "with a blunt stick",
+    "with a spork"
   ]
 
   robot.hear /!slap\s(.*)/i, (msg) ->
     slapWho = msg.match[1];
-    msg.reply msg.random slapMessages
+    msg.reply msg.random beg + slapWho + msg.random end
