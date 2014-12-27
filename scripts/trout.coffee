@@ -1,10 +1,10 @@
 module.exports = (robot) ->
   beg = ["slaps", "hits", "beats", "pokes"]
-  end = ["around a bit with a large trout",
-    "in the face with a rotten fish",
-    "in the face with a 14 inch dildo",
-    "with an ugly stick, though it does no more damage",
-    "with a blunt stick",
+  end = ["around a bit with a large trout"
+    "in the face with a rotten fish"
+    "in the face with a 14 inch dildo"
+    "with an ugly stick, though it does no more damage"
+    "with a blunt stick"
     "with a spork"
   ]
 
