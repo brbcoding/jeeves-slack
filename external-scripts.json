@@ -28,5 +28,6 @@
   "hubot-clj",
   "hubot-ascii-faces",
   "hubot-2048",
-  "hubot-trivia-game"
+  "hubot-trivia-game",
+  "hubot-booze"
 ]
