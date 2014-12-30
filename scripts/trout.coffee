@@ -5,7 +5,8 @@ module.exports = (robot) ->
     "in the face with a 14 inch dildo"
     "with an ugly stick, though it does no more damage"
     "with a blunt stick"
-    "with a spork"
+    "with a spork",
+    "around a bit with an uncommonly large clam"
   ]
 
   robot.hear /!slap\s(.*)/i, (msg) ->
