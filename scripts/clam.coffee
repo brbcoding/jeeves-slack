@@ -11,3 +11,4 @@ module.exports = (robot) ->
   
   robot.hear /clam\sdown/i, (msg) ->
     msg.send msg.random clamPics
+    
