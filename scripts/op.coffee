@@ -7,7 +7,3 @@ module.exports = (robot) ->
  
   robot.respond /op @?([\w .\-_]+)$/i, (msg) ->
     robot.adapter.command('MODE', msg.message.user.room, '+o', msg.match[1].trim())
- 
-  # Automatically give everyone voice and op (as an example)
-  robot.enter (msg) ->
-    robot.adapter.command('MODE', msg.message.user.room, '+o', msg.message.user.name)
