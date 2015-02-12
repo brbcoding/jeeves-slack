@@ -35,6 +35,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot-seen": "^0.2.2",
     "hubot-shipit": "^0.1.1",
+    "hubot-slack": "^3.2.1",
     "hubot-soon": "^1.0.0",
     "hubot-steal": "0.0.2",
     "hubot-stockstuff": "0.0.1",

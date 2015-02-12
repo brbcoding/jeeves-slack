@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n Jeeves
+web: bin/hubot -a slack -n Jeeves
