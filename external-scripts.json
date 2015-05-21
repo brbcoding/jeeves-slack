@@ -21,13 +21,10 @@
   "hubot-impersonate",
   "hubot-heroku-keepalive",
   "hubot-seen",
-  "hubot-soon",
-  "hubot-redis-brain",
   "hubot-calculator",
   "hubot-javascript",
   "hubot-clj",
   "hubot-ascii-faces",
-  "hubot-2048",
   "hubot-trivia-game",
   "hubot-booze",
   "hubot-steal"
